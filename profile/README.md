@@ -1,1 +1,1 @@
-[![Camptocamp](https://www.camptocamp.com/images/logo-with-text.svg)](https://www.camptocamp.com/)
+[![Camptocamp](https://www.camptocamp.com/images/logo-no-text.svg)](https://www.camptocamp.com/)
